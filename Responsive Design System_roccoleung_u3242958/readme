@@ -1,0 +1,28 @@
+Front End Web: Responsive Design System
+
+Thought Process and Meeting the Brief
+
+Responsive design system layout for Canberra Modern. The website contains visual elements such as complementary imagery, colorful grid layout, and the Canberra modern logo.
+The Website is minimal, yet visually interesting separated by the imagery and stacked text. Canberra Modern’s moto is immediately visible upon loading the site along with a brief
+explanation and a small button which is planned to take you to an about page. Easy access to events and bookings on the front page featuring visual imagery catches the
+viewers’ attention laid out in grid format, clearly separates events and makes them visible.
+
+Research and Inspiration
+
+Searching through awwwards I found three sites that inspired my web layout being (1) https://www.cula.tech/, (2) https://www.valmont.com/, (3) https://studiod.nu/en/. 
+Each of these sites contain large use of imagery with overlap in text, which I have implemented into a small section of my front page, and more specifically the way that (3) has
+incorporated that into the homepage with its division of elements into empty space. I do believe there could be more added to the website including a more interesting layout and
+scattered involving natural eye movement. However, the inclusion and consideration of easy access to event pages and information have also been accounted for clashing visual interest
+for design layout.
+
+Reflection
+
+The current design is very basic, and more could be implemented to increase visual engagement, possibly the inclusion of more visual imagery or use of color. Additionally the site
+is quite bare with not alot of content. The design only contains the homepage as the navigation tabs and booking tabs do not lead anywhere. Although the home comes as I had
+visualized, addition of content could increase visual appeal. From a usability perspective the site shows positives and negatives. Whilst content is separated quite clearly, effectively
+supporting users to complete actions and access new tabs, it is possible that a lack of visual engagement may decrease a users interest in the site. Whilst the users may experience
+disinterest due to error tolerance. When I was coding the website I experienced trouble making the elements fit and overflowing their containers. In the Additional Information
+section the text would overflow over the container boundaries, though I believe I have mostly resolved the issue. I wasn’t sure how to properly scale the image, so at a
+certain point the image becomes incredibly small whilst adding to the container's height. Additionally the image is uncentered when the screen is shrunken down which I
+believe to be relating to the navigation bar. When shrinking the window to a certain point a hamburger menu will appear. However the bar is not hidden and is instead
+shifted to the side, meaning a horizontal scroll bar will appear offsetting some of the content, which I believe is the cause of overflow, since it tampers the screen width.
